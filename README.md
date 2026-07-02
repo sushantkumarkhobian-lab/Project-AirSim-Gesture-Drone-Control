@@ -4,6 +4,12 @@ A real-time gesture-controlled drone navigation system built using Python, OpenC
 
 ---
 
+## Live Demonstration
+
+<img width="1000" alt="Screen Recording 2026-06-27 172415" src="https://github.com/user-attachments/assets/a459d41a-7ab5-4937-8ac2-1fa166a7a9b3" />
+
+---
+
 ## Features
 
 * Real-time hand tracking using MediaPipe
@@ -86,9 +92,7 @@ pip install projectairsim
 
 ---
 
-## Live Demonstration
 
-<img width="1000" alt="Screen Recording 2026-06-27 172415" src="https://github.com/user-attachments/assets/a459d41a-7ab5-4937-8ac2-1fa166a7a9b3" />
 
 
 
